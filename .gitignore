@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
 # Created by https://www.gitignore.io/api/macos,visualstudiocode
@@ -42,3 +43,6 @@ Temporary Items
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+=======
+.DS_Store
+>>>>>>> 5741ebdd2b84818e043548aaf546f09c24342226
