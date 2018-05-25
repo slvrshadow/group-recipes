@@ -13,4 +13,4 @@
 - Coconut Milk
 - Lime juice
 
-**Whip it, whipt real good**
+**Whip it, whip it real good**
