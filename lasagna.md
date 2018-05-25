@@ -1,5 +1,4 @@
-# Group recipes
-## The Most Amazing Lasagna Recipe
+# The Most Amazing Lasagna Recipe
 
 Prep time: 1 hour 30 mins
 Cook Time: 50 mins
