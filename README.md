@@ -1,11 +1,11 @@
 # Group recipes
 
-- [Chicken Massaman](chicken-massaman.md)
-- [French Omelet :ok_hand:](french-omelet.md)
+- [Chicken Massaman](chicken_massaman.md)
+- [French Omelet :ok_hand:](french_omelett.md)
 - [Gourmet Mushroom Risotto](gourmet-mushroom-risotto.md)
-- [Hemp Seed Hummus](Hemp-Seed-Hummus.md)
+- [Hemp Seed Hummus](hemp_seed_hummus.md)
 - [pie](pie.md)
-- [Lasagna](Lasagna.md)
+- [Lasagna](lasagna.md)
 - [Pasta Alfredo](Andrewrecipe.md)
 - [pie](pie.md)
 - [Ultimate Meringue](Christie-Marx-Meringues.md)
