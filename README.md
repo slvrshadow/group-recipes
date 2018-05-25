@@ -12,3 +12,4 @@
 - [Carbonara Recipe](carbonara.md)
 - [test](test.md)
 - [Chocolate Brownies](brownies.md)
+- [Cinnamon Pancakes](pancakes.md)
