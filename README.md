@@ -5,7 +5,7 @@
 - [Gourmet Mushroom Risotto](gourmet_mushroom_risotto.md)
 - [Hemp Seed Hummus](hemp_seed_hummus.md)
 - [Lasagna](lasagna.md)
-- [Pasta Alfredo](Andrewrecipe.md)
+- [Pasta Alfredo](pasta_alfredo.md)
 - [Steak Pie](steak_pie.md)
 - [Ultimate Meringue](Christie-Marx-Meringues.md)
 - [Carbonara Recipe](carbonara.md)
