@@ -1,5 +1,5 @@
 # Delicious Chewy Dark Chocolate Brownies
-## _A secret recipe from my great-grandmother_
+A secret recipe from my great-grandmother_
 
 ## **Ingredients**
 

@@ -1,6 +1,4 @@
-# Group recipes
-
-## Pasta Alfredo
+# Pasta Alfredo
 
 Cooking time - 30mins
 Serving - 6 people
