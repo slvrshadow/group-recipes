@@ -7,3 +7,4 @@
 - [Ultimate Chicken Pie](pie.md)
 - [Ultimate Meringue](Christie-Marx-Meringues.md)
 - [Ultimate Spaghetti Carbonara Recipe](Carbonara.md)
+- [Vegan Weed Brownies](Myles-Recipe.md)
