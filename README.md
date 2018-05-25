@@ -7,7 +7,7 @@
 - [pie](pie.md)
 - [Lasagna](lasagna.md)
 - [Pasta Alfredo](Andrewrecipe.md)
-- [pie](pie.md)
+- [pie](steak_pie.md)
 - [Ultimate Meringue](Christie-Marx-Meringues.md)
 - [Carbonara Recipe](carbonara.md)
 - [test](test.md)
