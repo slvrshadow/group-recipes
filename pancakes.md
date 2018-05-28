@@ -15,4 +15,4 @@ Heat a lightly greased 22cm round pan on low. Add 60ml of the batter and swirl t
 
 ### Tip
 
-* Serve with cinnamon sugar and a squeeze of lemon juice.
+Serve with cinnamon sugar and a squeeze of lemon juice.

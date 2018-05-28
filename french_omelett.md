@@ -1,4 +1,4 @@
-# French Omelet
+# French Omelette
 
 ### Ingredients
 
